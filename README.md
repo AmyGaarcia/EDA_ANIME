@@ -39,7 +39,7 @@ Este repositorio contiene un Analisis Exploratorio de Datos (EDA) sobre la popul
    
 2. Entra al directorio del proyecto: "EDA_ANIME"
    
-3. Terminal de visual: "pip install -r requirements.txt"
+3. Terminal de visual: "pip install -r requirements.txt" que estan en la carpeta de visual aids
 
 
 · CONTACTO:
