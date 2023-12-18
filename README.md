@@ -1,11 +1,11 @@
 # EDA_ANIME
 Análisis exploratorio de la popularidad del anime
 
-·USO: 
+· USO: 
 
 Este repositorio contiene un Analisis Exploratorio de Datos (EDA) sobre la popularidad del anime. Puedes explorar y utilizar los datos de las siguientes maneras
 
-·IMPORTACIONES:
+· IMPORTACIONES:
 
 -import pandas as pd
 
@@ -33,7 +33,7 @@ Este repositorio contiene un Analisis Exploratorio de Datos (EDA) sobre la popul
 
 -warnings.filterwarnings("ignore", category=UserWarning)
 
-·INSTALACION:
+· INSTALACION:
 
 1. Clona el repositorio: "git clone https://github.com/AmyGaarcia/EDA_ANIME"
    
@@ -42,7 +42,7 @@ Este repositorio contiene un Analisis Exploratorio de Datos (EDA) sobre la popul
 3. Terminal de visual: "pip install -r requirements.txt"
 
 
-·CONTACTO:
+· CONTACTO:
 
 amygarcia3d@gmail.com
 
