@@ -7,31 +7,27 @@ Este repositorio contiene un Analisis Exploratorio de Datos (EDA) sobre la popul
 
 · IMPORTACIONES:
 
--import pandas as pd
+import pandas as pd
 
--import numpy as np
+import numpy as np
 
--import seaborn as sns
+import seaborn as sns
 
--import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
--from scipy.stats import (pearsonr, f_oneway, ttest_ind, shapiro, mannwhitneyu, kruskal)
+import scipy.stats as stats
 
--import statsmodels.api as sm
+import warnings
 
--import scipy.stats as stats
+import statsmodels.api as sm
 
--from itertools import combinations
+from itertools import combinations
 
--from statsmodels.stats.multitest import multipletests
+from statsmodels.stats.multitest import multipletests
 
--from statsmodels.stats.multicomp import pairwise_tukeyhsd
+from scipy.stats import (pearsonr, f_oneway, ttest_ind, shapiro, mannwhitneyu, kruskal,ttest_1samp, ttest_ind, levene, ttest_rel, wilcoxon, ks_2samp, spearmanr)
 
--import warnings
-
--from scipy.stats import ttest_1samp, ttest_ind, levene, ttest_rel, wilcoxon, f_oneway, ks_2samp, spearmanr
-
--warnings.filterwarnings("ignore", category=UserWarning)
+warnings.filterwarnings("ignore", category=UserWarning)
 
 · INSTALACION:
 
